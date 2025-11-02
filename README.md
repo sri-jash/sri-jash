@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sri-jash" alt="sri-jash" /></a> </p>
 
-- 🔭 I’m currently working on **Nutrinexus**
+- 🔭 I’m currently working as **Network Engineer @ Tata Consultancy Services**
 
-- 🌱 I’m currently learning **Django , Tailwind Css**
+- 🌱 I’m currently learning **F5 Loadbalancers , CCNA , Routing  Switching , Firewalls , Infoblox , Solarwinds , Meraki , ServiceNow**
 
-- 👯 I’m looking to collaborate on **Frontend Deveoplment**
+- 👯 I’m looking to collaborate on **Network Troubleshooting**
 
 - 🤝 I’m looking for help with **Spring Boot**
 
